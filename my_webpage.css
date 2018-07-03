@@ -1,1 +1,33 @@
+body{
+    background-color: 77d1c5;
+    /* padding:20px; */
+}
+button {
+  margin-top: 20px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: LightCoral;
+  border: none;
+}
+button:hover {
+  background: Pink;
+}
+
+  
+
+h1 {
+font-family: "Beautiful People Personal Use";
+  color: a57785;
+  text-align: center;
+}
+
+h2{
+  color:C38D9E
+
+}
+
+
+
+
 
